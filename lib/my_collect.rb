@@ -6,4 +6,5 @@ def my_collect(collection)
     x << y
     i = i + 1
   end
+  x
 end
